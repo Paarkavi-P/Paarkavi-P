@@ -1,8 +1,7 @@
-[![MasterHead](https://tenor.com/view/programming-gif-25868426)](https://paarkavi-p.io)
 <h1 align="center">Hi 👋, I'm Paarkavi P</h1>
 <h3 align="center">A passionate Front-end Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarkavi-p&label=Profile%20views&color=0e75b6&style=flat" alt="paarkavi-p" /> </p>
 
 - 🔭 I’m currently working Internship on [Calibraint Technologies](https://www.calibraint.com/)
